@@ -2,11 +2,14 @@
   "name": "algo_vid",
   "version": "1.0.0",
   "description": "Vidéo algorithmique de haute définition multidimensionnelle ffmpeg",
-  "main": "ascii-R.js",
+  "main": "src/js/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node src/json/gantt-work.json",
+    "build": "node src/json/gantt-work.json",
+    "groq-": "node src/json/gantt-work.json"
+
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
