@@ -5,7 +5,7 @@
   "main": "src/js/main.js",
   "scripts": {
     "test": "node src/json/gantt-work.json",
-    "build": "node src/json/gantt-work.json",
+    "build": "node Bs+wp_groq.js",
     "groq-": "node src/json/gantt-work.json"
 
   },
