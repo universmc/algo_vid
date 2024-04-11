@@ -1,0 +1,12 @@
+{
+  "name": "algo_vid",
+  "version": "1.0.0",
+  "description": "Vidéo algorithmique de haute définition multidimensionnelle ffmpeg",
+  "main": "ascii-R.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
